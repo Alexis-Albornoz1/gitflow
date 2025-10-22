@@ -1,4 +1,1 @@
-﻿Hola me llamo alexis
-hola soy frank estoy en 6 semestre
- 
-
+resuelto
